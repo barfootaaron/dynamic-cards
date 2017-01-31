@@ -1,0 +1,21 @@
+.myCards {
+	border: 2px solid lightgrey;
+	display: inline-block;
+	height: 200px;
+	width: 150px;
+	margin: 10px;
+	padding: 10px;
+}
+
+#cardGrid {
+	margin: 1em;
+}
+
+#textArea {
+	width: 40%;
+	height: 10em;
+}
+
+button {
+	margin: 1em;
+}
